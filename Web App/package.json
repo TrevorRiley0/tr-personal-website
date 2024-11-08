@@ -1,0 +1,19 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "Personal Website Front End",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrevorRiley0/tr-personal-website.git"
+  },
+  "author": "Trevor Riley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrevorRiley0/tr-personal-website/issues"
+  },
+  "homepage": "https://github.com/TrevorRiley0/tr-personal-website#readme"
+}
